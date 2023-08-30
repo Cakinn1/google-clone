@@ -53,6 +53,7 @@
 
 .searchPage__option a {
     margin-left: 5px;
+    cursor: not-allowed
 }
 
 

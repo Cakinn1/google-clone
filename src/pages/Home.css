@@ -10,6 +10,8 @@
   text-decoration: inherit;
   color: rgba(0, 0, 0, 0.87);
   font-size: 15px;
+  cursor:not-allowed
+
 }
 
 .home__header a:hover {
@@ -27,6 +29,7 @@
   align-items: center;
   min-width: 13vw;
   justify-content: space-between;
+  cursor:not-allowed
 }
 
 .home__headerRight > .MuiSvgIcon-root {
